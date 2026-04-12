@@ -14,3 +14,7 @@ Menurut saya, hal ini penting karena menyangkut hubungan sosial. Jika semua tekn
 Pada akhirnya, pertikaian antara open source dan closed source ini bukan hanya soal teknis, tapi soal pilihan masa depan. Kita diajak melihat apakah inovasi digital akan terus dikendalikan hanya untuk keuntungan sepihak saja, atau dialihkan ke arah distribusi ilmu yang lebih luas bagi semua orang.
 
 Teknologi seharusnya jadi alat untuk membebaskan manusia, bukan malah menjadi pembatas baru. Belajar dari sejarah para inovator, kemajuan yang bertahan lama itu bukan yang disimpan rapat di brankas perusahaan, tetapi yang dibangun bersama-sama lewat kolaborasi dan keterbukaan. Dan sebagai mahasiswa, poin utama kita adalah memastikan akses informasi itu bisa lebih egaliter dan tidak dimonopoli siapa pun.
+## Daftar Pustaka
+* Berlin, L. (2017). *Troublemakers: Silicon Valley Coming of Age*. New York: Simon & Schuster.
+* Isaacson, W. (2014). *The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution*. New York: Simon & Schuster.
+* Kelompok 3. (2026). *Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka* [Slide PowerPoint].
