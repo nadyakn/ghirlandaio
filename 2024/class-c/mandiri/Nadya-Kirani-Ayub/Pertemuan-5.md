@@ -16,7 +16,7 @@ perpustakaan dan kepuasan pengguna.
 
 Berkaitan dengan perpustakaan digital, prinsip *Save the Time of the Reader diimplementasikan
 melalui penyediaan sistem temu kembali informasi yang digunakan dengan cepat untuk
-mempermudah pengguna. Pengguna dapat menelusuri bahan koleksi melalui katalog online tanpa
+mempermudah pengguna. Pengguna dapat menelusuri bahan koleksi perpustakaan melalui katalog online tanpa
 harus mencari secara manual. Selain diadakannya katalog online, perpustakaan digital juga perlu 
 merancang tampilan sistemnya untuk lebih mudah dipahami agar pengguna bisa cepat berafaptasi
 dengan sistem dan memudahkan pengguna agar pencarian informasi bisa dilakukan dengan sedikit 
